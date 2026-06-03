@@ -22,5 +22,6 @@ def fetch_and_display_users(num_users):
         return None
 
 
+
 fetch_and_display_users(4)
 fetch_and_display_users(16)
